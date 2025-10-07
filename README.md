@@ -16,7 +16,7 @@ Repositório de estudos sobre **Padrões de Projeto (Design Patterns)** implemen
 ### 1. **Criacionais**
 Responsáveis pela **criação de objetos** de forma flexível e desacoplada.
 
-- [Factory Method](#factory-method)
+- [Factory Method](https://github.com/Morettegustavo/design-pattern-with-java/tree/main/src/main/java/org/example/criacionais/factoryMethod)
 - (em breve) Abstract Factory  
 - (em breve) Builder  
 - (em breve) Prototype  
@@ -38,11 +38,6 @@ Lidam com a **comunicação e responsabilidades entre objetos**.
 - (em breve) Command  
 - (em breve) State  
 
----
-
-## 🏗️ Factory Method
-
-**Tipo:** Padrão Criacional  
 
 **Objetivo:**  
 Definir uma **interface para criação de um objeto**, permitindo que as **subclasses decidam qual classe instanciar**.  
